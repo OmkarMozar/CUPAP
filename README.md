@@ -9,7 +9,7 @@ This tool can still usefull for higher version but it will no longer track newer
 
 # Installation
 
-• install smalisca tool from https://github.com/dorneanu/smalisca (prerequisite).</br>
+• Install smalisca tool from https://github.com/dorneanu/smalisca (prerequisite).</br>
 • Execute command ’cd CUPAP’ .</br>
 • On successful execution, run ’python getfile.py.</br>
 • Input Apk file to be analyzed (O/P path will be displayed on terminal)
